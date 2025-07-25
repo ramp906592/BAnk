@@ -1,0 +1,42 @@
+[
+    {
+        "name": "ram",
+        "age": 69,
+        "email": "ram@gmail.com",
+        "pin": 1234,
+        "accountNo": "1234",
+        "balance": 0
+    },
+    {
+        "name": "harsh",
+        "age": 34,
+        "email": "har@gmail.com",
+        "pin": 2345,
+        "accountNo": "5F@Pz44",
+        "balance": 1000
+    },
+    {
+        "name": "Ram prakash ",
+        "age": 23,
+        "email": "ram@gmail.com",
+        "pin": 1234,
+        "accountNo": "uaO217H",
+        "balance": 3000
+    },
+    {
+        "name": "ppp",
+        "age": 34,
+        "email": "pri@gmail.com",
+        "pin": 2345,
+        "accountNo": "rK$QqGU",
+        "balance": 999
+    },
+    {
+        "name": "Niyati",
+        "age": 24,
+        "email": "niyati@gmailc.om",
+        "pin": 4567,
+        "accountNo": "XLZ0FfQ",
+        "balance": 0
+    }
+]
