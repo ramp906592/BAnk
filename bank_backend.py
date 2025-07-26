@@ -50,7 +50,7 @@ class BANK:
 
     @classmethod
     def deposit_money(cls, user, amount):
-        if amount <= 0 or amount > 10000:
+        if amount <= 0 or amount > 10000000000000000:
             return False, "Amount must be between 1 and 10000."
         # Find and update the user in cls.data
         for u in cls.data:
